@@ -1,9 +1,8 @@
 //
 //  AppDelegate.h
-//  AppleMusicSearchTransition
 //
 //  Created by Neil on 17/05/2016.
-//  Copyright © 2016 acme. All rights reserved.
+//  Copyright (c) 2016 Neil Wilkinson. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
